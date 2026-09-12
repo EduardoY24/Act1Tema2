@@ -7,7 +7,6 @@ Repositorio con ejercicios del Tema 2 de Prog Web.
 - `index.html` — menú principal con enlaces a todos los ejercicios.
 - `ejercicio1.html` a `ejercicio6.html` — ejercicios de HTML/CSS/JS trabajados en clase.
 - `img/` — imágenes usadas por los ejercicios.
-- `css/`, `js/` — Estilos y scripts usados por algunos ejercicios.
 
 ## Cómo verlo
 
