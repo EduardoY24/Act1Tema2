@@ -1,0 +1,14 @@
+button {
+    margin-top: 15px;
+    background-color: darkmagenta;
+    color: white;
+    border-color: indigo;
+}
+
+h1{
+    color: purple;
+}
+#resultado {
+    width: 210px;
+    height: 15px;
+}
